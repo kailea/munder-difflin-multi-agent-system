@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This project implements a five-agent system, built with **smolagents** (`ToolCallingAgent`) on `gpt-4o-mini` through the Vocareum OpenAI-compatible proxy, that handles customer paper-supply requests end to end: it works out what the customer wants, checks it against the product range and stock, restocks from the supplier when that can still meet the deadline, prices the order with bulk discounts, books the sale, and replies to the customer with a transparent explanation. Everything lives in one file, `project_starter.py`. The workflow diagram is `agent_workflow_diagram.png`.
+This project implements a five-agent system, built with **smolagents** (`ToolCallingAgent`) on `gpt-4o-mini` through the Vocareum OpenAI-compatible proxy, that handles customer paper-supply requests end to end: it works out what the customer wants, checks it against the product range and stock, restocks from the supplier when that can still meet the deadline, prices the order with bulk discounts, books the sale, and replies to the customer with a transparent explanation. Everything lives in one file, `project_solution.py`. The workflow diagram is `agent_workflow_diagram.png`.
 
 ## 2. Architecture and agent workflow diagram
 
@@ -138,10 +138,11 @@ All 20 requests in `quote_requests_sample.csv` were processed in date order (the
 ## 7. How to run
 
 ```bash
-pip install -r requirements.txt
-pip install smolagents
+python3.12 -m venv .venv
+source .venv/bin/activate
+pip install pandas==2.2.3 openai==1.76.0 SQLAlchemy==2.0.40 python-dotenv==1.1.0 numpy smolagents
 echo "UDACITY_OPENAI_API_KEY=voc-..." > .env
-python project_starter.py
+python project_solution.py
 ```
 
 The run produces `test_results.csv` (one row per request) and `business_advisor_report.txt` (internal review), and prints each agent's tool calls to the console.
