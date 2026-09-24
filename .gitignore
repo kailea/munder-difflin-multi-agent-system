@@ -1,5 +1,6 @@
-   .venv/
-   .env
-   __pycache__/
-   munder_difflin.db
-   run_log.txt
+.venv/
+.env
+__pycache__/
+munder_difflin.db
+run_log.txt
+project_starter.py
