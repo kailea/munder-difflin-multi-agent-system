@@ -1,0 +1,336 @@
+request_id,request_date,cash_balance,inventory_value,response
+1,2025-04-01,45124.7,4875.3,"Dear Customer,
+
+Thank you for your order. Here are the details of your request:
+
+- **200 sheets of A4 glossy paper** -> 200 sheets of Glossy paper at $0.20 each, totaling **$40.00**. Estimated delivery date: April 2, 2025.
+- **100 sheets of heavy cardstock (white)** -> 100 sheets of Cardstock at $0.15 each, totaling **$15.00**. Estimated delivery date: April 2, 2025.
+- **100 sheets of colored paper (assorted colors)** -> 100 sheets of Colored paper at $0.10 each, totaling **$10.00**. Estimated delivery date: April 2, 2025.
+
+**Subtotal:** $65.00  
+**Discount:** No bulk discount applied as the total units ordered (400) is below our 500-unit tier.  
+**Total Charged:** $65.00  
+**Order Reference:** ORD-0001  
+
+All items are confirmed and will be delivered ahead of your requested deadline of April 15, 2025.
+
+Thank you for choosing us for your paper supplies!"
+2,2025-04-03,45124.7,4875.3,"Dear Customer,
+
+Thank you for your request. Unfortunately, we are unable to fulfill your order for 500 sheets of colorful poster paper, 300 rolls of streamers, and 200 balloons, as none of these items are part of our current product range. 
+
+We recommend exploring alternative suppliers for these items or revising your order to include products that we do carry. 
+
+We apologize for any inconvenience this may cause. 
+
+Best regards,"
+3,2025-04-04,45253.81,4868.45,"Dear Customer,
+
+Your order has been confirmed as follows:
+- **10,000 sheets of A4 paper** -> 10,000 sheets of A4 paper at $0.05 each, totaling **$425.00**. Estimated delivery date is **April 12, 2025**.
+
+**Subtotal:** $500.00  
+**Discount:** 15% bulk discount for an order of 10,000 units.  
+**Total Charged:** $425.00  
+**Order Reference:** ORD-0003
+
+Unfortunately, we could not fulfill the following items:
+- **5,000 sheets of A3 paper**: This item is not part of our product range.
+- **500 reams of printer paper**: This item is also not part of our product range.
+
+Please let us know if you need assistance with alternative options for the unfulfilled items.
+
+Thank you for your order!"
+4,2025-04-05,45258.81,4868.45,"Dear Customer,
+
+Thank you for your order. Here are the details:
+
+- **Confirmed Item:** 250 sheets of A4 size printer paper -> 250 sheets of A4 paper
+  - **Price:** $12.50
+  - **Estimated Delivery Date:** April 10, 2025
+
+**Subtotal:** $12.50  
+**Discount:** No bulk discount applied as 250 units is below our 500-unit tier. The next discount tier offers 5% off for orders of 500 units or more.  
+**Total Charged:** $12.50  
+**Order Reference:** ORD-0004  
+
+Unfortunately, we could not fulfill your request for 500 sheets of high-quality, recycled cardstock in various colors as this item is not part of our product range.
+
+If you have any further questions or need assistance, please feel free to reach out.
+
+Best regards,
+Beaver's Choice Paper Company"
+5,2025-04-05,45303.81,4823.45,"Dear Customer,
+
+Thank you for your order. Here are the details:
+
+- **300 sheets of cardstock in various colors** -> 300 sheets of Cardstock
+  - **Price:** $45.00
+  - **Estimated Delivery Date:** April 6, 2025
+
+**Subtotal:** $45.00  
+**Discount:** No bulk discount applied as the order is below our 500-unit tier.  
+**Total Charged:** $45.00  
+**Order Reference:** ORD-0005
+
+Unfortunately, we could not fulfill the following items:
+- **500 sheets of 8.5""x11"" colored paper:** This item is not part of our product range.
+- **200 rolls of decorative washi tape:** This item is also not part of our product range.
+
+Please consider alternative options for these items. 
+
+Thank you!"
+6,2025-04-06,45323.79,4816.4,"Dear Customer,
+
+Thank you for your order. Here is the summary of your request:
+
+- **300 sheets of A4 white printer paper** -> 300 sheets of A4 paper
+  - Price: $14.25
+  - Estimated Delivery Date: April 11, 2025
+
+- **200 sheets of cardstock in various colors** -> 200 sheets of cardstock
+  - Price: $28.50
+  - Estimated Delivery Date: April 11, 2025
+
+**Subtotal**: $45.00  
+**Discount**: 5% for an order of 500 units, amounting to $2.25  
+**Total Charged**: $42.75  
+**Order Reference**: ORD-0006
+
+Unfortunately, we could not fulfill your request for **500 sheets of colorful construction paper** as this item is not part of our product range. We recommend considering alternative suppliers for this item.
+
+If you have any further questions or need assistance, please feel free to reach out.
+
+Best regards,
+Beaver's Choice Paper Company"
+7,2025-04-07,45661.59,4468.4,"Dear Customer,
+
+Thank you for your order. Here is the summary of your large order for paper supplies for your upcoming exhibition:
+
+- **500 sheets of glossy A4 paper** (Glossy paper) -> $90.00 (Estimated Delivery Date: April 12, 2025)
+- **300 units of poster boards (24"" x 36"")** (Large poster paper) -> $270.00 (Estimated Delivery Date: April 8, 2025)
+- **200 sheets of heavyweight cardstock** (Cardstock) -> $27.00 (Estimated Delivery Date: April 12, 2025)
+
+**Subtotal**: $430.00  
+**Discount**: $43.00 (10% bulk discount for an order of 1,000 units)  
+**Total Charged**: $387.00  
+**Order Reference**: ORD-0007  
+
+Unfortunately, we could not fulfill the following item:
+- **1000 sheets of matte A3 paper**: This item is not part of our product range.
+
+We appreciate your understanding and look forward to serving you again. 
+
+Best regards,
+Beaver's Choice Paper Company."
+8,2025-04-07,45696.59,4468.4,"Dear Customer,
+
+Thank you for your order. Here are the details:
+
+- **500 sheets of A4 glossy paper** -> 500 sheets of Glossy paper
+  - **Price:** $95.00 (after a 5% bulk discount)
+  - **Estimated Delivery Date:** April 12, 2025
+
+**Subtotal:** $100.00  
+**Discount:** 5% bulk discount for an order of 500 units.  
+**Total Charged:** $95.00  
+**Order Reference:** ORD-0008
+
+Unfortunately, we could not fulfill the following items as they are not part of our product range:
+- 1000 sheets of A4 matte paper
+- 2000 sheets of A5 colored paper
+- 3000 sheets of A4 recycled paper
+
+If you have any further questions or need assistance with alternative products, please let us know.
+
+Best regards,
+Beaver's Choice Paper Company"
+9,2025-04-07,45696.59,4468.4,"Dear Customer,
+
+Thank you for your order request. Unfortunately, we were unable to fulfill your order for the following items:
+
+- **200 sheets of A4 white printer paper**: The quantity requested exceeds our current stock, and the earliest delivery date we can provide is April 12, 2025, which is after your required deadline of April 10, 2025.
+- **100 sheets of A3 glossy paper**: This item is not part of our product range.
+- **50 packets of 100% recycled kraft paper envelopes**: This item is also not part of our product range.
+
+We apologize for the inconvenience. Please consider alternative products or adjust your order to meet the delivery deadline. No charge has been made for this order.
+
+Best regards,
+Beaver's Choice Paper Company."
+13,2025-04-08,45696.59,4468.4,"Dear Customer,
+
+Thank you for your order request. Unfortunately, we are unable to fulfill your order for 500 sheets of A4 printing paper and 200 sheets of cardstock by the requested delivery date of April 10, 2025. The earliest delivery date available for both items is April 13, 2025, which is after your deadline.
+
+We recommend considering alternative products or adjusting your order quantities to ensure timely delivery for your gathering. 
+
+We apologize for any inconvenience this may cause and appreciate your understanding.
+
+Best regards,
+Beaver's Choice Paper Company"
+12,2025-04-08,45724.34,4448.400000000001,"Dear Customer,
+
+Thank you for your order. Here is the summary of your request:
+
+- **200 sheets of colorful cardstock** (Colored paper) -> 200 sheets
+  - Price: $19.00
+  - Estimated Delivery Date: April 9, 2025
+
+- **500 sheets of standard printer paper** (A4 paper) -> 500 sheets
+  - Price: $23.75
+  - Estimated Delivery Date: April 13, 2025
+
+**Subtotal:** $45.00  
+**Discount:** $2.25 (5% bulk discount for an order of 700 units)  
+**Total Charged:** $42.75  
+**Order Reference:** ORD-0011
+
+Please note that we could not supply the **100 paper napkins** as they are not part of our product range.
+
+If you have any further questions or need assistance, feel free to reach out.
+
+Best regards,
+Beaver's Choice Paper Company"
+10,2025-04-08,45775.09,4448.400000000001,"Dear Customer,
+
+Your order has been successfully confirmed with the following details:
+
+- **500 sheets of high-quality glossy paper** -> 500 sheets of Glossy paper at $0.20 each, totaling $95.00 (after a 5% bulk discount). Estimated delivery date: April 13, 2025.
+- **300 sheets of sturdy cardstock** -> 300 sheets of Cardstock at $0.15 each, totaling $42.75 (after a 5% bulk discount). Estimated delivery date: April 13, 2025.
+
+**Subtotal:** $145.00  
+**Discount:** 5% bulk discount for an order of 800 units, amounting to $7.25.  
+**Total Charged:** $137.75  
+**Order Reference:** ORD-0012  
+
+Thank you for your order! If you have any further questions, feel free to reach out."
+11,2025-04-08,45775.09,4448.400000000001,"Dear Customer,
+
+Thank you for your request. Unfortunately, we are unable to fulfill your order for 500 sheets of A3 glossy paper and 300 sheets of A4 matte paper as neither item is part of our product range. 
+
+We currently carry glossy paper and A4 paper, but we do not offer A3 glossy paper or A4 matte paper. 
+
+We apologize for any inconvenience this may cause. If you would like to explore alternative options or have any other requests, please let us know.
+
+Best regards,
+Beaver's Choice Paper Company"
+14,2025-04-09,45801.34,4448.400000000001,"Dear Customer,
+
+Thank you for your order. Here are the details:
+
+- **500 sheets of cardstock** -> 500 sheets of Cardstock
+  - **Price:** $71.25
+  - **Estimated Delivery Date:** April 14, 2025
+
+**Subtotal:** $75.00  
+**Discount:** 5% bulk discount for an order of 500 units.  
+**Total Charged:** $71.25  
+**Order Reference:** ORD-0014
+
+Unfortunately, we could not fulfill the following items:
+1. **5,000 sheets of A4 paper** - This quantity needs a delivery from our supplier, and the earliest we can deliver it is April 17, 2025, which is after your requested deadline of April 15, 2025.
+2. **2,000 sheets of poster paper in various colors** - This item is not part of our product range.
+
+If you have any questions or need further assistance, please let us know.
+
+Best regards,
+Beaver's Choice Paper Company"
+15,2025-04-12,45801.34,4448.400000000001,"Dear Customer,
+
+Thank you for your request for high-quality paper supplies for your upcoming demonstration. Unfortunately, we were unable to fulfill your order due to the following reasons:
+
+- **10,000 sheets of A4 white paper:** The earliest delivery from our supplier would be on April 20, 2025, which is after your required deadline of April 15, 2025.
+- **5,000 sheets of A3 colored paper (assorted colors):** This item is not part of our product range.
+- **500 reams of cardboard for signage:** This item is also not part of our product range.
+
+We apologize for the inconvenience and regret to inform you that no charge has been made. If you have any other requests or need assistance with alternative products, please let us know.
+
+Best regards,
+Beaver's Choice Paper Company"
+16,2025-04-13,45901.34,4348.400000000001,"Dear Customer,
+
+Thank you for your order. Here are the details:
+
+- **Confirmed Item:** 100 sheets of Large poster paper (24x36 inches) -> 100 sheets of poster board
+  - **Price:** $100.00
+  - **Estimated Delivery Date:** April 14, 2025
+
+**Subtotal:** $100.00  
+**Discount:** No bulk discount applied as 100 units is below our 500-unit tier.  
+**Total Charged:** $100.00  
+**Order Reference:** ORD-0016
+
+Unfortunately, we could not fulfill the following items:
+1. **500 sheets of A4 printer paper**  
+   - **Reason:** This quantity needs a delivery from our supplier and the earliest we can deliver it is April 18, 2025, which is after your deadline of April 15, 2025.
+2. **200 sheets of colorful construction paper**  
+   - **Reason:** This item is not part of our product range.
+
+If you have any further questions or need assistance, please let us know."
+17,2025-04-14,45948.84,4298.400000000001,"Dear Customer,
+
+Thank you for your order. Here are the details:
+
+- **Confirmed Item:** 500 biodegradable paper plates -> 500 units of Paper plates
+  - **Price:** $50.00
+  - **Discount:** 5% bulk discount for an order of 500 units.
+  - **Total Charged:** $47.50
+  - **Estimated Delivery Date:** April 15, 2025
+
+**Order Reference:** ORD-0017
+
+Unfortunately, the following items could not be supplied:
+- **1000 sheets of A4 white printer paper:** This quantity needs a delivery from our supplier, and the earliest we can deliver it is April 19, 2025, which is after your deadline of April 15, 2025.
+- **500 sheets of A3 colored paper (assorted colors):** This item is not part of our product range.
+- **2000 table napkins (white):** This item is not part of our product range.
+- **1000 paper cups (biodegradable):** This item is not part of our product range.
+
+Please consider adjusting your order or the delivery date for the A4 paper to ensure all items can be fulfilled.
+
+Thank you for choosing us!"
+18,2025-04-14,45968.84,4278.400000000001,"Dear Customer,
+
+Your order has been successfully processed with the following details:
+
+- **200 sheets of colored paper in assorted colors**
+  - **Unit Price:** $0.10
+  - **Total:** $20.00
+  - **Estimated Delivery Date:** April 15, 2025
+
+**Order Reference:** ORD-0018
+
+**Subtotal:** $20.00  
+**Discount:** No bulk discount applied as the order does not meet the minimum requirement of 500 units.  
+**Total Charged:** $20.00
+
+Unfortunately, the following items could not be fulfilled by the deadline:
+1. **500 sheets of high-quality white cardstock** - This quantity needs a delivery from our supplier and the earliest we can deliver it is April 19, 2025, which is after your April 15, 2025 deadline.
+2. **1000 sheets of standard printing paper** - This quantity needs a delivery from our supplier and the earliest we can deliver it is April 19, 2025, which is after your April 15, 2025 deadline.
+
+Thank you for your understanding."
+19,2025-04-15,46013.84,4278.400000000001,"Dear Customer,
+
+Thank you for your order. Here is the summary of your request:
+
+- **1000 sheets of cardstock in assorted colors** -> 1000 sheets of cardstock
+  - **Price**: $135.00
+  - **Estimated Delivery Date**: April 20, 2025
+
+**Subtotal**: $150.00  
+**Discount**: 10% bulk discount for an order of 1,000 units.  
+**Total Charged**: $135.00  
+**Order Reference**: ORD-0019
+
+Unfortunately, we could not fulfill the following items:
+- **2000 sheets of A4 glossy paper**: This quantity needs a delivery from our supplier and the earliest we can deliver it is April 23, 2025, after your April 20 deadline.
+- **1500 sheets of A3 matte paper**: This item is not part of our product range.
+
+We appreciate your understanding and look forward to serving you in the future."
+20,2025-04-17,46013.84,4278.400000000001,"Dear Customer,
+
+Thank you for your request for a large order of paper supplies for your upcoming concert. Unfortunately, we are unable to fulfill your order for 5,000 flyers, 2,000 posters, and 10,000 tickets, as these specific items are not available in our stock. 
+
+We recommend discussing alternative products that we do carry, which may suit your needs. 
+
+We apologize for any inconvenience this may cause and appreciate your understanding.
+
+Best regards,"
